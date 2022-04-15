@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Merve-Simsek92/firebase-movie-app/static/css/main.48774e25.css",
+    "main.js": "/Merve-Simsek92/firebase-movie-app/static/js/main.f903d861.js",
+    "static/js/787.a010e42e.chunk.js": "/Merve-Simsek92/firebase-movie-app/static/js/787.a010e42e.chunk.js",
+    "index.html": "/Merve-Simsek92/firebase-movie-app/index.html",
+    "main.48774e25.css.map": "/Merve-Simsek92/firebase-movie-app/static/css/main.48774e25.css.map",
+    "main.f903d861.js.map": "/Merve-Simsek92/firebase-movie-app/static/js/main.f903d861.js.map",
+    "787.a010e42e.chunk.js.map": "/Merve-Simsek92/firebase-movie-app/static/js/787.a010e42e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48774e25.css",
+    "static/js/main.f903d861.js"
+  ]
+}
